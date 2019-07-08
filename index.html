@@ -1,0 +1,12 @@
+---
+layout: default
+title: Pokemon DIY Card Game
+hidenav: true
+content_class: index
+---
+<p><img src="images/pokemoncg_active.jpg"></p>
+<ul>
+  {% for lang in site.languages %}
+  <li><a href="/{{ lang }}.html">{{ site.lang_titles[lang] }}</a></li>
+  {% endfor %}
+</ul>

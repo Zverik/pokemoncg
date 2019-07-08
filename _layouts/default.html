@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="/style.css">
+  </head>
+  <body>
+    {% unless page.hidenav %}
+    <div id="navigation">
+      {% for lang in site.languages %}
+      <a href="/{{ lang }}.html">{{ lang }}</a>
+      {% endfor %}
+      |
+      <a href="https://github.com/zverik/pokemoncg">{{ page.translate | default: 'translate' }}</a>
+      {{ page.or | default: 'or' }}
+      <a href="https://github.com/zverik/pokemoncg/issues">{{ page.improve | default: 'improve' }}</a>
+    </div>
+    {% endunless %}
+    <div class="{{ page.content_class }}">
+      <h1>{{ page.title }}</h1>
+      {{ content }}
+    </div>
+  </body>
+</html>
