@@ -161,31 +161,36 @@ with three cards "+1 to attach" at once. After using, shuffle them into the deck
 
 ### Pokémon Types
 
-У покемонов обычно есть тип: например, электрический. Можно для карт ограничиться набором из трёх-пяти:
-вода, огонь, трава, воздух. Или взять [набор из TCG](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Trading_Card_Game#Pok%C3%A9mon_types),
-но тогда придётся каждый раз сверяться с таблицей взаимодействий.
+Pokemon usually have a type: like, electric or water. You can add it to cards.
+Three to five would be best: for example, water, fire, grass and air. Or take the
+[set from the TCG](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Trading_Card_Game#Pok%C3%A9mon_types),
+although then you would need to consult the type chart each time.
 
-Покемон, у которого тип сильнее того, что играет против него, получает +1 к силе во время боя.
+Stronger type gives a pokemon an extra level when battling a pokemon
+with a weaker type.
 
-В карты предметов добавляем «убрать тип»: он снимает бонус за тип в одном бою.
+Additionally you would need an item card "remove type" to remove type effects in a battle.
 
 ### Multiple Players
 
-Когда играют два и более игроков, они тащат покемонов по очереди. Можно меняться
-предметами вне боя. Если новый игрок вступает в середине игры, игроки должны
-дать ему покемона и покебол из своих.
+When there are multiple players, they draw cards in turns. They can trade items
+outside of battles. If a new player joins mid-game, other players should
+provide her or him with a pokemon and a pokeball out of their own cards.
 
-Игроки могут биться между собой. Они выставляют предметы, которые получит победитель.
-Затем каждый побеждает самого сильного покемона противника. Затем второго по силе
-и так далее, пока все покемоны одного из игроков не будут в обмороке: он и проиграл.
-Первым ходит тот, кому предложили биться, либо по договорённости.
+Players can battle each other. They place items they battle over. Then
+they battle each one's strongest pokemon. After that — the second strongest,
+until all pokemon of a losing player have fainted. First turn makes the one
+who was proposed a battle.
+
+(This has not beed playtested.)
 
 ### Playing Outside
 
-Можно не сидеть над колодой, а спрятать покемонов на улице. Возможно распределить их
-тематически: например, по типам или размерам. С ними прячем и предметы — возможно, по два:
-покебол + предмет. Участники тогда сами их находят и дерутся, кидая кубики.
-Целью можно поставить, например, поймать всех покемонов.
+Instead of sitting home over a deck, you can go outside. Just hide pokemon cards
+in bushes or under stones, possibly taking into account their types. Hide
+items together with pokemon, possibly in pairs: pokeball + other item. Players
+should find and battle these pokemon by themselves, rolling their dice.
+A goal may be finding all hidden pokemon.
 
 ## Addendums
 
@@ -220,6 +225,29 @@ For the alternative formula with A+2:
 | 3—3       | 2 | 3 | 4 | 5 | 2 | 3 |
 | 3—4       | 2 | 3 | 4 | 5 | 3 | 4 |
 | 4—4       | 3 | 4 | 5 | 6 | 3 | 4 |
+
+### Why not Pokémon TCG?
+
+Мы с дочкой отдыхаем на море, и она каждый день по часу смотрит на маленький экран Nintendo 3DS,
+играя в покемонов. Остальное время она о них думает. Чтобы немного отвлечь её от экрана, я решил
+сделать карточную игру. Всё, что есть под рукой, — карандаши и бумага. Кубик в таких играх
+неизбежен: вместо него я использовал приложение, пока не купил настоящий в магазине.
+
+Исследование показало, что карточная игра по покемонам существует только одна, и для неё нужно
+покупать или сложно рисовать карточки. Кроме того, у неё сложные правила и много вычислений.
+А дочке шесть лет и желание не считать числа в столбик, а собирать покемонов. Поэтому я сделал
+максимально простые правила, с упором на рисование, не слишком простую победу (потому что
+ценишь то, что достаётся с трудом) и коллекционирование.
+
+Правила обкатывали в ходе игры. Сначала сила покемона была фиксированной, затем стало понятно,
+что это не работает, когда свои покемоны растут. Пришлось и сюда добавить кубик и несколько
+раз подкручивать формулу. Оказалось, что дочка раскачивает только одного покемона, а остальные
+болтаются в первых уровнях. Или что на кубике постоянно выпадает 6 во время определения силы,
+но 1 во время боя или ловли. С каждой правкой таких неудобств правила росли.
+
+Игра сработала, дочка теперь играет на 3DS всего полчаса. Но остальное время приходится играть
+с ней в карты, что, наверное, не очень хорошо. Пришлось ввести ограничение по времени и на эту игру.
+Советую играть не более 40 минут подряд, чтобы потом не ссориться.
 
 ### History
 
