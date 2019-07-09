@@ -92,27 +92,33 @@ shuffled back into the deck.
 
 ![](images/pokemoncg_active.jpg)
 
-При победе игрок берёт карточку предмета (можно использовать только со следующего хода)
-и ставит чёрточку на всех покемонах, участвовавших в битве (и только них:
-если покемон отсиживался, чёрточки не получает). Три чёрточки — плюс уровень.
+After winning, a player draws an item card from the deck (which they can use only
+on the next turn), and draws a stroke on all pokemons participating in the battle.
+If a pokemon didn't attack a wild pokemon, they don't get a stroke. Three strokes
+level up a pokemon.
 
-Если разница между силой покемонов в битве 3 и больше — то ставим две чёрточки.
-6 — три, 9 — четыре и так далее.
+If a difference in pokemon levels in a fight was 3 or more, a player's pokemon
+gets two strokes. For difference of 6, three strokes; 9 gets four, and so on.
 
 ### Catching a Pokémon
 
-После боя можно кинуть покебол и попытаться поймать покемона. Для поимки нужно кинуть кубик
-и чтобы результат был не меньше, чем число точек на карточке. Если покемон не побеждён, нужно выкинуть на один больше.
+After a battle (no matter lost or won) you can throw a pokeball and try to catch a pokemon.
+To do that, roll a dice, and the number on it should not be less than number of dots
+on the pokemon card. If you didn't defeat the pokemon, you would need to roll
+one greater.
 
-Например, если легендарный покемон не побеждён, то нужно выкинуть 8 и больше.
-Используя ультрабол, достаточно выкинуть 6. Если победить этого покемона, то нужны 5 или 6.
-Наконец, добавив карту «+2 к поимке», для ловли ультраболом побеждённого легендарного покемона
-достаточно выкинуть 3 или выше — вероятность поимки 67%.
+For example, an undefeated legendary pokemon needs rolling 8 or more to be caught
+(which is obviously improssible with a d6). Using an ultra ball, you would need
+to roll 6. But if you've defeated the pokemon, 5 is enough.
+Finally, if you use a "+2 to catching" card, to catch with an ultra ball
+a defeated legendary pokemon, you need to roll 3 or greater — which gives
+67% probability of catching it.
 
-Можно кидать несколько покеболов, если первые не сработали.
+You can throw more pokeballs if the first did not work.
 
-Пойманному покемону нужно отметить базовый уровень — который выпал ему перед боем.
-Если не хочется потом стирать пометки, можно придумать какие-нибудь конвертики.
+After catching a pokemon, write its base level on it — that's the one
+determined with a dice roll before the battle. To avoid erasing these
+temporary markings in the next game, you might make a sleeve or something.
 
 ## Legendary Pokémon
 
@@ -135,16 +141,16 @@ or set a goal of catching a specific legendary pokemon.
 
 Types of pokeballs:
 
-* pokeball
-* masterball (always succeeds and then leaves the deck)
-* ultraball (+2)
+* poke ball
+* master ball (always succeeds and then leaves the deck)
+* ultra ball (+2)
 * all other types (+1)
 
 Types of items:
 
 * +1 to attack (once a fight)
 * +2 to catching (for one pokemon)
-* level up (дорисовываем чёрточки до уровня; once outside a battle)
+* level up (down strokes to a full level; once outside a battle)
 * double (doubles the pokemon level)
 * scare the pokemon away (during a battle; it leaves an item)
 
@@ -185,35 +191,35 @@ with three cards "+1 to attach" at once. After using, shuffle them into the deck
 
 ### Pokémon Level Table
 
-Используем формулу из раздела «Ход»:
+Using the formula from the "Turn" section:
 
-| в колоде | 1 | 2 | 3 | 4 | 5 | 6 |
-|----------|---|---|---|---|---|---|
-| 1—1      | 1 | 1 | 2 | 1 | 1 | 2 |
-| 1—2      | 1 | 1 | 2 | 1 | 2 | 3 |
-| 1—3      | 1 | 1 | 2 | 2 | 3 | 4 |
-| 1—4      | 1 | 1 | 2 | 3 | 4 | 5 |
-| 2—2      | 1 | 2 | 3 | 1 | 2 | 3 |
-| 2—3      | 1 | 2 | 3 | 2 | 3 | 4 |
-| 2—4      | 1 | 2 | 3 | 3 | 4 | 5 |
-| 3—3      | 2 | 3 | 4 | 2 | 3 | 4 |
-| 3—4      | 2 | 3 | 4 | 3 | 4 | 5 |
-| 4—4      | 3 | 4 | 5 | 3 | 4 | 5 |
+| in battle | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1—1       | 1 | 1 | 2 | 1 | 1 | 2 |
+| 1—2       | 1 | 1 | 2 | 1 | 2 | 3 |
+| 1—3       | 1 | 1 | 2 | 2 | 3 | 4 |
+| 1—4       | 1 | 1 | 2 | 3 | 4 | 5 |
+| 2—2       | 1 | 2 | 3 | 1 | 2 | 3 |
+| 2—3       | 1 | 2 | 3 | 2 | 3 | 4 |
+| 2—4       | 1 | 2 | 3 | 3 | 4 | 5 |
+| 3—3       | 2 | 3 | 4 | 2 | 3 | 4 |
+| 3—4       | 2 | 3 | 4 | 3 | 4 | 5 |
+| 4—4       | 3 | 4 | 5 | 3 | 4 | 5 |
 
-Для альтернативной формулы с A+2:
+For the alternative formula with A+2:
 
-| в колоде | 1 | 2 | 3 | 4 | 5 | 6 |
-|----------|---|---|---|---|---|---|
-| 1—1      | 1 | 1 | 2 | 3 | 1 | 1 |
-| 1—2      | 1 | 1 | 2 | 3 | 1 | 2 |
-| 1—3      | 1 | 1 | 2 | 3 | 2 | 3 |
-| 1—4      | 1 | 1 | 2 | 3 | 3 | 4 |
-| 2—2      | 1 | 2 | 3 | 4 | 1 | 2 |
-| 2—3      | 1 | 2 | 3 | 4 | 2 | 3 |
-| 2—4      | 1 | 2 | 3 | 4 | 3 | 4 |
-| 3—3      | 2 | 3 | 4 | 5 | 2 | 3 |
-| 3—4      | 2 | 3 | 4 | 5 | 3 | 4 |
-| 4—4      | 3 | 4 | 5 | 6 | 3 | 4 |
+| in battle | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----------|---|---|---|---|---|---|
+| 1—1       | 1 | 1 | 2 | 3 | 1 | 1 |
+| 1—2       | 1 | 1 | 2 | 3 | 1 | 2 |
+| 1—3       | 1 | 1 | 2 | 3 | 2 | 3 |
+| 1—4       | 1 | 1 | 2 | 3 | 3 | 4 |
+| 2—2       | 1 | 2 | 3 | 4 | 1 | 2 |
+| 2—3       | 1 | 2 | 3 | 4 | 2 | 3 |
+| 2—4       | 1 | 2 | 3 | 4 | 3 | 4 |
+| 3—3       | 2 | 3 | 4 | 5 | 2 | 3 |
+| 3—4       | 2 | 3 | 4 | 5 | 3 | 4 |
+| 4—4       | 3 | 4 | 5 | 6 | 3 | 4 |
 
 ### History
 
