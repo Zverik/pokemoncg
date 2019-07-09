@@ -1,39 +1,40 @@
 ---
 layout: default
-lang: ru
-title: Простая карточная игра по покемонам
-translate: переведите
-or: или
-improve: предложите улучшение
+lang: en
+title: Pokémon DIY Card Game
+translate: translate
+or: or
+improve: suggest an improvement
 ---
-## Подготовка
+## Preparing
 
-Для игры понадобится кубик d6
-(или приложение типа [этого](https://play.google.com/store/apps/details?id=com.ccp.rpgsimpledice)),
-простой и цветные карандаши и чистая бумага, желательно плотная.
-Повторная игра потребует стирательной резинки, чтобы удалить старые пометки.
+For the game you would need a d6 dice (or an app like
+[this one](https://play.google.com/store/apps/details?id=com.ccp.rpgsimpledice)),
+a graphite and coloured pencils, and few sheets of thick white paper.
+A repeat game would require an eraser to remove old markings.
 
-Сначала нужно нарисовать карточки. Это важная часть игры: детям понравится
-вспоминать или придумывать существ и делать собственные, не покупные, карточки.
+First you need to draw cards. It is an important part of the game: children
+would like to remeber or invent creatures, and make their own, not ready-bought,
+cards.
 
-* 20+ карт обычных покемонов
-* 5+ карт легендарных покемонов
-* 10+ карт покеболлов
-* 10+ карт других предметов (список см. внизу)
+* 20+ regular pokemon cards
+* 5+ legendary pokemon cards
+* 10+ pokeball cards
+* 10+ other item cards (see the list below)
 
-Итого, 45 карт минимум: двух листов картона А4, разделённого на квадратики 4×6,
-должно хватить. Но лучше взять 4-5 листов.
+In total, 45 cards at the least: two sheets of A4 paper should be enough,
+cut 4×6 into squares. Though you'd do better with 4-5 sheets.
 
-На обороте нужно различить обычных и легендарных покемонов,
-а также все предметы (покеболы и обычные не разделяем). Придумайте простые
-обозначения и быстро пометьте все карточки.
+On the flipside you would need to mark regular and legendary pokemon,
+and all the items (pokeballs and others alike). Come up with simple markings
+and quickly mark all the cards' flipsides.
 
 ![](images/pokemoncg_pokemon.jpg)
 
-На карте каждого обычного покемона обязательно нарисовать точечки
-по его [Catch Rate](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_catch_rate)
-(мы смотрим в приложении [Pokedex](https://play.google.com/store/apps/details?id=com.goldex)),
-см. таблицу:
+Every regular pokemon card should have dots corresponding to its
+[Catch Rate](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_catch_rate)
+(we look it up in a [Pokedex app](https://play.google.com/store/apps/details?id=com.goldex)),
+according to the table:
 
 | 255  | 1 |
 | 200+ | 2 |
@@ -42,16 +43,17 @@ improve: предложите улучшение
 | 45+  | 5 |
 | 1+   | 6 |
 
-У легендарных всегда 7, можно не рисовать. Если покемон выдуманный, то бросайте кубик.
+Legendary pokemon always have 7, you don't need to draw these.
+For invented pokemon, roll a dice.
 
-## Начало игры
+## Game Start
 
 Игрокам выдаётся по одному стартовому покемону (специальному или из нормальных)
 с силой 1 и по 1-2 покебола. У игрока может быть сколько угодно покемонов
 в запасе и только три в игре. Менять их можно вне боя когда угодно.
 Предметов может быть сколько угодно.
 
-## Ход
+## Turn
 
 ![](images/pokemoncg_overview.jpg)
 
@@ -84,7 +86,7 @@ improve: предложите улучшение
 
 В любое время можно сбежать. При побеге или проигрыше прячем покемона с поля в колоду.
 
-### После боя
+### After a Battle
 
 ![](images/pokemoncg_active.jpg)
 
@@ -95,7 +97,7 @@ improve: предложите улучшение
 Если разница между силой покемонов в битве 3 и больше — то ставим две чёрточки.
 6 — три, 9 — четыре и так далее.
 
-### Ловим покемона
+### Catching a Pokémon
 
 После боя можно кинуть покебол и попытаться поймать покемона. Для поимки нужно кинуть кубик
 и чтобы результат был не меньше, чем число точек на карточке. Если покемон не побеждён, нужно выкинуть на один больше.
@@ -110,7 +112,7 @@ improve: предложите улучшение
 Пойманному покемону нужно отметить базовый уровень — который выпал ему перед боем.
 Если не хочется потом стирать пометки, можно придумать какие-нибудь конвертики.
 
-## Легендарные покемоны
+## Legendary Pokémon
 
 Когда старший покемон достигает 10 уровня, в игру вступают легендарные покемоны.
 Они внезапно подменяют покемона на столе, когда при оценке силы выпадает 1 и прошлый покемон не был легендарным.
@@ -118,12 +120,12 @@ improve: предложите улучшение
 
 Сила легендарного покемона равна d6+Z, где Z — сила самого сильного покемона у игрока.
 
-## Цель игры
+## Goal
 
 Игра заканчивается когда угодно. Как вариант, можно ограничить время (игра затягивается!)
 или поставить цель поймать особенного легендарного покемона.
 
-## Покеболы и предметы
+## Pokémon and Items
 
 ![](images/pokemoncg_items.jpg)
 
@@ -145,9 +147,9 @@ improve: предложите улучшение
 Все предметы во время боя можно использовать много раз: например, «навесить» на атакующего покемона
 сразу три карточки «+1 к атаке». После использования они все возвращаются в колоду.
 
-## Дополнения
+## Modifications
 
-### Типы покемонов
+### Pokémon Types
 
 У покемонов обычно есть тип: например, электрический. Можно для карт ограничиться набором из трёх-пяти:
 вода, огонь, трава, воздух. Или взять [набор из TCG](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Trading_Card_Game#Pok%C3%A9mon_types),
@@ -157,7 +159,7 @@ improve: предложите улучшение
 
 В карты предметов добавляем «убрать тип»: он снимает бонус за тип в одном бою.
 
-### Два и более игроков
+### Multiple Players
 
 Когда играют два и более игроков, они тащат покемонов по очереди. Можно меняться
 предметами вне боя. Если новый игрок вступает в середине игры, игроки должны
@@ -168,16 +170,16 @@ improve: предложите улучшение
 и так далее, пока все покемоны одного из игроков не будут в обмороке: он и проиграл.
 Первым ходит тот, кому предложили биться, либо по договорённости.
 
-### В поле
+### Playing Outside
 
 Можно не сидеть над колодой, а спрятать покемонов на улице. Возможно распределить их
 тематически: например, по типам или размерам. С ними прячем и предметы — возможно, по два:
 покебол + предмет. Участники тогда сами их находят и дерутся, кидая кубики.
 Целью можно поставить, например, поймать всех покемонов.
 
-## Приложения
+## Addendums
 
-### Таблица сил покемона
+### Pokémon Power Table
 
 Используем формулу из раздела «Ход»:
 
@@ -209,8 +211,8 @@ improve: предложите улучшение
 | 3—4      | 2 | 3 | 4 | 5 | 3 | 4 |
 | 4—4      | 3 | 4 | 5 | 6 | 3 | 4 |
 
-## Авторы
+## Authors
 
-Все права на изображения и названия покемонов, а также само слово «покемон» принадлежат The Pokémon Company.
+All rights for images, pokémon names and the "Pokémon" word itself belong to The Pokémon Company.
 
-Остальное на этом сайте опубликовано под лицензией CC0. Автор идеи — Илья Зверев, с дополнениями других участников.
+Everything else here is published under CC0 license. Idea by Ilya Zverev, with improvements by other people.
