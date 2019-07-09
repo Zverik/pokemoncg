@@ -48,17 +48,18 @@ For invented pokemon, roll a dice.
 
 ## Game Start
 
-Игрокам выдаётся по одному стартовому покемону (специальному или из нормальных)
-с силой 1 и по 1-2 покебола. У игрока может быть сколько угодно покемонов
-в запасе и только три в игре. Менять их можно вне боя когда угодно.
-Предметов может быть сколько угодно.
+Players receive one starter pokemon each (either special or a regular one)
+of level 1, and 1-2 pokeballs. A player can have any number of pokemon
+stored away, and only three in the game. They can swap pokemon outside a battle
+at any time. One can have any number of items.
 
 ## Turn
 
 ![](images/pokemoncg_overview.jpg)
 
-Открываем покемона и кидаем кубик d6, чтобы определить его силу по таблице.
-В ней A — сила самого слабого покемона у игрока в бою, а Z — самого сильного. Очевидно, минимум — 1.
+Open a regular (wild) pokemon card and roll a d6 dice to find its level using
+the table below. A denotes a level of the weakest pokemon in battle, and Z is
+a level of the strongest one. The minimum level is obviously 1.
 
 | 1 | A–1 |
 | 2 | A   |
@@ -67,24 +68,25 @@ For invented pokemon, roll a dice.
 | 5 | Z   |
 | 6 | Z+1 |
 
-Для небольшого усложнения игры можно использовать 4=A+2, 5=Z–1, 6=Z.
+To complicate the game a little, use 4=A+2, 5=Z–1, 6=Z.
 
-Теперь бой: снова кидаем кубик. Таблица победы такая:
+Now the battle: roll the dice again.
 
-| Сила покемона игрока относительно N — силы покемона на столе | Сколько нужно выкинуть на кубике, чтобы победить |
-|--------------|----|
-| N+2 и больше | победа автоматом |
-| N+1          | 2+ |
-| N            | 4+ |
-| N–1          | 6  |
-| N–2 и меньше | проигрыш автоматом |
+| Level of a player's pokemon<br>compared to N, level of wild pokemon | Number on the dice to win |
+|-------------|----|
+| N+2 or more | auto win |
+| N+1         | 2+ |
+| N           | 4+ |
+| N–1         | 6  |
+| N–2 or less | auto loss |
 
-При проигрыше покемон теряет сознание и пропускает следующую битву.
-В бой вступает следующий покемон игрока — но покемон на поле с каждой битвой теряет одно очко силы.
-То есть, покемон 7 уровня после победы над покемоном игрока бьётся со следующим,
-но уже с силой 6. Сила может быть 0 и не может быть -1.
+When lost, a pokemon faints and skips the next battle.
+Another player's pokemon enters the battle — and the opposing pokemon loses a level
+with each fight. That is, a level 7 pokemon defeats a player's pokemon and fights
+the next one — but now with level of 6. The level can fall to 0, but not -1.
 
-В любое время можно сбежать. При побеге или проигрыше прячем покемона с поля в колоду.
+A player can run at any time. When escaped or lost, the wild pokemon should be
+shuffled back into the deck.
 
 ### After a Battle
 
@@ -114,38 +116,40 @@ For invented pokemon, roll a dice.
 
 ## Legendary Pokémon
 
-Когда старший покемон достигает 10 уровня, в игру вступают легендарные покемоны.
-Они внезапно подменяют покемона на столе, когда при оценке силы выпадает 1 и прошлый покемон не был легендарным.
-Как вариант, можно их выкладывать каждые 6 ходов или по запросу.
+When the strongest pokemon in game reaches level 10, legendary pokemon can appear.
+They suddensly replace a wild pokemon on the field, when a dice roll for power
+shows 1, and the last pokemon wasn't legendary. Alternatively, you can open
+a legendary pokemon every 6 turns, or by request.
 
-Сила легендарного покемона равна d6+Z, где Z — сила самого сильного покемона у игрока.
+A level of a legendary pokemon is d6+Z, where Z is the level of the strongest
+pokemon in the battle.
 
 ## Goal
 
-Игра заканчивается когда угодно. Как вариант, можно ограничить время (игра затягивается!)
-или поставить цель поймать особенного легендарного покемона.
+The game ends whenever. You can set a deadline (the game tends to last)
+or set a goal of catching a specific legendary pokemon.
 
 ## Pokémon and Items
 
 ![](images/pokemoncg_items.jpg)
 
-Какие бывают покеболы:
+Types of pokeballs:
 
-* покебол
-* мастербол (ловит всегда и уходит из колоды после использования)
-* ультрабол (+2)
-* все остальные виды (+1)
+* pokeball
+* masterball (always succeeds and then leaves the deck)
+* ultraball (+2)
+* all other types (+1)
 
-Какие бывают предметы:
+Types of items:
 
-* +1 к атаке (один раз во время боя)
-* +2 к поимке (на одного покемона)
-* level up (дорисовываем чёрточки до уровня; один раз вне боя)
-* дубль (сила покемона удваивается)
-* прогнать покемона (во время боя; остаётся item)
+* +1 to attack (once a fight)
+* +2 to catching (for one pokemon)
+* level up (дорисовываем чёрточки до уровня; once outside a battle)
+* double (doubles the pokemon level)
+* scare the pokemon away (during a battle; it leaves an item)
 
-Все предметы во время боя можно использовать много раз: например, «навесить» на атакующего покемона
-сразу три карточки «+1 к атаке». После использования они все возвращаются в колоду.
+All battle items can be used simultaneously: for example, you can boost a pokemon
+with three cards "+1 to attach" at once. After using, shuffle them into the deck.
 
 ## Modifications
 
@@ -179,7 +183,7 @@ For invented pokemon, roll a dice.
 
 ## Addendums
 
-### Pokémon Power Table
+### Pokémon Level Table
 
 Используем формулу из раздела «Ход»:
 
@@ -210,6 +214,11 @@ For invented pokemon, roll a dice.
 | 3—3      | 2 | 3 | 4 | 5 | 2 | 3 |
 | 3—4      | 2 | 3 | 4 | 5 | 3 | 4 |
 | 4—4      | 3 | 4 | 5 | 6 | 3 | 4 |
+
+### History
+
+The rules above describe version 1.0 of the game.
+Changes from older versions will be documented here.
 
 ## Authors
 
