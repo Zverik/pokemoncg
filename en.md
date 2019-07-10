@@ -228,26 +228,28 @@ For the alternative formula with A+2:
 
 ### Why not Pokémon TCG?
 
-Мы с дочкой отдыхаем на море, и она каждый день по часу смотрит на маленький экран Nintendo 3DS,
-играя в покемонов. Остальное время она о них думает. Чтобы немного отвлечь её от экрана, я решил
-сделать карточную игру. Всё, что есть под рукой, — карандаши и бумага. Кубик в таких играх
-неизбежен: вместо него я использовал приложение, пока не купил настоящий в магазине.
+Me and my daughter are on a vacation at a sea, and she spends an hour every day staring
+into a small Nintendo 3DS screen playing OmegaRuby. When she isn't, she thinks about the game.
+To get her off the screen, I decided to invent a card game. All I have are pencils and paper.
+A dice is obviously inevitable: until I bought a real one in a shop, I used an app.
 
-Исследование показало, что карточная игра по покемонам существует только одна, и для неё нужно
-покупать или сложно рисовать карточки. Кроме того, у неё сложные правила и много вычислений.
-А дочке шесть лет и желание не считать числа в столбик, а собирать покемонов. Поэтому я сделал
-максимально простые правила, с упором на рисование, не слишком простую победу (потому что
-ценишь то, что достаётся с трудом) и коллекционирование.
+A research has shown that there is just one pokemon card game, and it requires buying or
+drawing very detailed cards. And it has complex rules and too many numbers. My kid is six,
+and she wants to collect pokemon, not do math. Thus I made the rules as simple as possible,
+focusing on drawing, winning not too easily (because you value what you earned), and
+collecting creatures.
 
-Правила обкатывали в ходе игры. Сначала сила покемона была фиксированной, затем стало понятно,
-что это не работает, когда свои покемоны растут. Пришлось и сюда добавить кубик и несколько
-раз подкручивать формулу. Оказалось, что дочка раскачивает только одного покемона, а остальные
-болтаются в первых уровнях. Или что на кубике постоянно выпадает 6 во время определения силы,
-но 1 во время боя или ловли. С каждой правкой таких неудобств правила росли.
+We continued to polish the rules during the game. Formerly pokemon levels were pre-determined,
+but then it became clear that doesn't work when you pokemon keep growing. We had to use
+the dice for levels as well, and tweak the formula few times. Then, the kid preferred
+to raise a single pokemon out of the team, and the rest were in low levels. And the dice
+kept showing 6 for wild pokemon level, but 1 during a battle or for pokeballs. Fixing
+issues made the rules grow.
 
-Игра сработала, дочка теперь играет на 3DS всего полчаса. Но остальное время приходится играть
-с ней в карты, что, наверное, не очень хорошо. Пришлось ввести ограничение по времени и на эту игру.
-Советую играть не более 40 минут подряд, чтобы потом не ссориться.
+The game has succeeded: she plays the 3DS for half an hour now. But the rest of the time
+is devoted to the cards, which is not so good I guess. We had to install a time limit
+for playing this game as well. I'd recommend playing for no more than 40 minutes, so that
+you won't fight after the game.
 
 ### History
 

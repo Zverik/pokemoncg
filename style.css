@@ -26,3 +26,26 @@ tr:nth-child(even) {
 .index {
   text-align: center;
 }
+
+.index p {
+  margin: 10px 0 35px;
+}
+
+.index ul {
+  list-style: none;
+  padding: 0;
+}
+
+.index li {
+  margin: 10px;
+  display: inline;
+}
+
+.index li a {
+  border-radius: 10px;
+  background: #ffffda;
+  padding: 10px 20px;
+  color: darkblue;
+  font-size: 20px;
+  border: 1px solid yellow;
+}
