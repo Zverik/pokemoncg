@@ -132,8 +132,8 @@ pokemon in the battle.
 
 ## Goal
 
-The game ends whenever. You can set a deadline (the game tends to last)
-or set a goal of catching a specific legendary pokemon.
+The game ends when all the legendary pokemon are caught. Also you can set a deadline
+(the game tends to last) or set a goal of catching a specific legendary pokemon.
 
 ## Pokémon and Items
 
