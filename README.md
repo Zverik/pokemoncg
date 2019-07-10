@@ -2,7 +2,7 @@
 
 This is a source code for the [pokemon card game website](https://zverik.github.io/pokemoncg/).
 
-Please leave your suggestions for improving the game in [issues](https://github.com/zverik/pokemoncg/issues).
+Please leave your suggestions for improving the game in [issues](https://github.com/Zverik/pokemoncg/issues).
 
 # Translations
 
@@ -16,4 +16,4 @@ All rights for pokemon visuals, names, and the word "Pokemon" belong to The Poke
 
 Everything else on this website is CC0.
 
-Original idea by Ilya Zverev, improved by other contributors.
+Original idea by Ilya Zverev, improved by other [contributors](https://github.com/Zverik/pokemoncg/graphs/contributors).

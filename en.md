@@ -260,4 +260,5 @@ Changes from older versions will be documented here.
 
 All rights for images, pokémon names and the "Pokémon" word itself belong to The Pokémon Company.
 
-Everything else here is published under CC0 license. Idea by Ilya Zverev, with improvements by other people.
+Everything else here is published under CC0 license. Idea by Ilya Zverev, with improvements
+by [other people](https://github.com/Zverik/pokemoncg/graphs/contributors).
