@@ -18,7 +18,7 @@ would like to remeber or invent creatures, and make their own, not ready-bought,
 cards.
 
 * 20+ regular pokemon cards
-* 5+ legendary pokemon cards
+* 2+ legendary pokemon cards
 * 10+ pokeball cards
 * 10+ other item cards (see the list below)
 
